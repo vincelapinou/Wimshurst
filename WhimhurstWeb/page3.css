@@ -1,0 +1,86 @@
+
+body { 
+	margin: 0px;
+
+}
+#illustration {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	top:10%;
+	width: 10%;
+	height:20%;
+	position:relative;
+
+}
+#Titre2{
+	position:relative;
+	display: block;
+	width:100%;
+	height:10%;
+	left:0%;
+	top:2%;
+	font-family:Timeless;
+	font-size:40px;
+	text-align:center;
+	visibility:visible;
+}
+#body{
+	position:absolute;
+	color:grey;
+	display: block;
+	width:100%;
+	height:50%;
+	left:5%;
+	bottom:0%;
+	font-family:Timeless;
+	font-size:24px;
+	text-align:justify;
+	visibility:visible;}
+#next{
+	position:absolute;
+	width:20%;
+	right:5%;
+	bottom:3%;
+	border:none;
+	outline:none;
+	font-family:Timeless;
+	font-size:18px;
+}
+
+#flecheNext{
+	position:absolute;
+	width:10%;
+	right:0%;
+	bottom:0%;
+	border:none;
+
+	visibility:visible;
+}
+
+#prev{
+	visibility:visible;
+	position:absolute;
+	width:20%;
+	left:5%;
+	bottom:3%;
+	border:none;
+	outline:none;
+	font-family:Timeless;
+	text-align:right;
+	font-size:18px;
+}
+
+#flechePrev{
+	position:absolute;
+	width:30%;
+	left:0%;
+	bottom:0%;
+}
+
+#home{
+	width:5%;
+	position:absolute;
+	left:2%;
+	top:2%;
+}
